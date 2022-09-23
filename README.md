@@ -1,3 +1,1 @@
-# rcis <img src="man/figures/logo.svg" align="right" />
-
-Functions and datasets relevant for Computing for Information Science (INFO 5940).
+Functions and datasets for MACSS 30500
